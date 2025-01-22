@@ -40,7 +40,7 @@ Welcome to the Maze-Solving Platform! This project is designed to help you explo
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/mariamelghandoor/Robot-Maze.git
+   git clone https://github.com/mariamelghandoor/MazeAI-Project.git
 
 2. **Run the Platform**:
    
@@ -73,12 +73,6 @@ Here's an example of how to run the Greedy Best-First Search algorithm using the
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
-
----
-
-## License
-
-This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
 
 ---
 
